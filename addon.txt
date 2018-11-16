@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "TTT Fate Classes by GameStreakerHD"
+	"author_name" "GameStreakerHD"
+	"info" "{ 	"description": "This is a addon for TTTC by Alf21", 	"type": "servercontent", 	"tags": [] }"
+}
